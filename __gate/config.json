@@ -1,0 +1,1 @@
+{"version":1,"format":"sealed-pages-v1","build":"fd87140f978a2033b5b384035915141d","basepath":"/matrix-panel-zero/","cipher":"AES-256-GCM","kdf":"PBKDF2","hash":"SHA-256","iterations":600000,"salt":"2VQdslvuJID55xbCzxeNH9DjTtgoLFLQQy4TTNCxpKE=","manifest":"66267a4f1c719d06810e62c301df7ff33b702c99dc8a679254ba6d3ed74ac23e","chunkSize":4194304}
