@@ -24,6 +24,8 @@ jobs:
       - uses: actions/upload-pages-artifact@v4
         with:
           path: ${{ runner.temp }}/protected-site
+      - name: Wait for artifact metadata propagation
+        run: sleep 30
       - name: Deploy encrypted site
         id: deployment
         uses: actions/deploy-pages@v4
